@@ -1,0 +1,35 @@
+    1  ls
+    2  cd repogit
+    3  cd ..
+    4  ssh-keygen -t ed25519
+    5  ls -i .ssh
+    6  sudo systemct1 status sshd
+    7  sudo systemctl status sshd
+    8  vagrant halt
+    9  cd ..
+   10  vagrant halt
+   11  vagrant up
+   12  cd ..
+   13  vagrant halt
+   14  ls
+   15  cd ..
+   16  vagrant shh
+   17  apt install vagrant
+   18  ls
+   19  ssh-keygen -t ed25519
+   20  ls -l .ssh/
+   21  sudo systemctl status sshd
+   22  ls -l ssh/
+   23  ssh-keygen -t ed25519
+   24  ls -l .ssh/
+   25  cat .shh/id_ed25519.pu
+   26  git clone git@github.com:upszot/UTN-FRA_SO_Vagrant.git
+   27  cd vagrant_repo
+   28  ls
+   29  cd vmvagrant_repo
+   30  cd cmvagrant_repo
+   31  cd vmvagrant_repo
+   32  git clone git@github.com:Lea-2005/vmvagrant_repo.git
+   33  cd vmvagrant_repo
+   34  ls
+   35  history > historial.txt
